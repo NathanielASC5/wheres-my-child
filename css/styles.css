@@ -1,0 +1,39 @@
+.navigation{
+    background-color:#29a304; 
+}
+.navbar-brand img{
+    width: 400px;
+}
+.nav-link{
+    font-size: 50px;
+
+}
+.navbar-dark .navbar-nav .nav-link{
+    color: white;
+    padding: 50px;
+    letter-spacing: -1px
+}    
+.carousel{
+    max-width:100%;
+    margin: 0 auto 200px;
+}
+
+.Specs{
+    top: 10px
+}
+.text{
+   max-width:600px ; 
+   margin: 0 auto ;
+   font-weight: bold;
+   font-size: 20px
+}
+.col-sm.right{
+    background: green;
+}
+.col-sm.left{
+    background: blue;
+}
+.col-sm{
+    color: white;
+    padding: 50px
+}
