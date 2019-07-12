@@ -15,7 +15,7 @@
 }    
 .carousel{
     max-width:100%;
-    margin: 0 auto 200px;
+    margin: 0 auto 100px;
 }
 
 .Specs{
@@ -25,15 +25,34 @@
    max-width:600px ; 
    margin: 0 auto ;
    font-weight: bold;
-   font-size: 20px
+   font-size: 35px
 }
 .col-sm.right{
-    background: green;
+    background: #29a304;
 }
 .col-sm.left{
     background: blue;
+    font-size: 50px;
 }
 .col-sm{
     color: white;
-    padding: 50px
+    padding: 50px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.col-6.col-sm-4{
+background: yellow;
+font-size: 50px
+}
+.col-6.col-sm-3{
+    background: red;
+    font-size: 50px;
+   
+}
+.col-6{
+    color: black;
+    padding: 50px;
+    margin: 0 auto ;
+    font-weight: bold;
+    
 }
